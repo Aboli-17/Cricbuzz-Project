@@ -1,0 +1,55 @@
+{
+  "matches": [
+    {
+      "match_id": "SAMPLE-001",
+      "series": "Sample Series 2025",
+      "format": "T20I",
+      "status": "In Progress",
+      "venue": {
+        "name": "Sample Oval",
+        "city": "Sample City",
+        "country": "Wonderland"
+      },
+      "teams": [
+        {
+          "id": "T1",
+          "name": "Alpha XI",
+          "score": "152/5 (17.3)"
+        },
+        {
+          "id": "T2",
+          "name": "Beta XI",
+          "score": "\u2014"
+        }
+      ],
+      "current_innings": {
+        "batting_team": "Alpha XI",
+        "run_rate": 8.68,
+        "overs": 17.3,
+        "batsmen": [
+          {
+            "name": "A. Player",
+            "runs": 45,
+            "balls": 28,
+            "fours": 5,
+            "sixes": 2
+          },
+          {
+            "name": "B. Player",
+            "runs": 12,
+            "balls": 10,
+            "fours": 1,
+            "sixes": 0
+          }
+        ],
+        "bowler": {
+          "name": "C. Bowler",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1
+        }
+      }
+    }
+  ]
+}
